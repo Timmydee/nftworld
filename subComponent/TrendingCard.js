@@ -4,7 +4,7 @@ import styles from '@/styles'
 
 const TrendingCard = ({imgMain, img1, img2, animal, no, sub}) => {
   return (
-    <div className='max-w-[330px] pb-8'>
+    <div className='max-w-[330px] pb-8 pt-3 lg:pt-0'>
         <img src={imgMain} alt='dog' className='w-[330px] pt-3' />
         <div className='flex py-3 justify-between'>
             <img src={img1} alt='dog' /> 

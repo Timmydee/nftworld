@@ -11,9 +11,9 @@ export const Header = () => {
       variants={navVariants}
       initial="hidden"
       whileInView="show"
-      className={`${styles.xPaddings} pt-9`}
+      className={`${styles.xPaddings} lg:pt-16 pt-10`}
     >
-      <div className={`${styles.innerWidth} mx-auto flex flex-col justify-between gap-8 lg:flex-row`}>
+      <div className={`${styles.innerWidth} mx-auto flex flex-col items-center justify-between gap-8 lg:flex-row`}>
         <div className='max-w-[500px]'>
           <h1 className='font-bold font-WorkSans text-white lg:text-[67px] text-[28px]'>Discover digital art & Collect NFTs</h1>
           <p className='text-white text-[16px] lg:text-[22px] py-5 font-WorkSans'>NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.</p>

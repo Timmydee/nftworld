@@ -14,12 +14,12 @@ const Trending = () => {
         whileInView="show"
         className={`${styles.xPaddings}`}
     >
-        <div className='pt-40'>
+        <div className='pt-40 lg:pt-40'>
             <h2 className={`${styles.h2Style}`}>Trending Collections</h2>
             <p className={`${styles.pStyle} pt-2`}>Checkout our weekly updated trending collection.</p>
         </div>
 
-        <div className='flex justify-between lg:flex-row flex-col'>
+        <div className='flex justify-between items-center lg:flex-row flex-col pt-6 lg:pt-0'>
             <TrendingCard 
                 imgMain = "/dogMain.png"
                 img1 = "/dog1.png"

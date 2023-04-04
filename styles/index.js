@@ -4,7 +4,7 @@ const styles = {
   
     paddings: 'sm:p-16 xs:p-8 px-6 py-12',
     yPaddings: 'sm:py-16 xs:py-8 py-12',
-    xPaddings: 'sm:px-16 px-6',
+    xPaddings: 'sm:px-20 px-6',
     topPaddings: 'sm:pt-16 xs:pt-8 pt-12',
     bottomPaddings: 'sm:pb-16 xs:pb-8 pb-12',
   
@@ -15,8 +15,12 @@ const styles = {
 
     // h
     pStyle: "font-bold lg:text-[16px] text-[14px] font-WorkSans text-white",
+    pStyle2: "font-bold lg:text-[16px] text-[12px] font-WorkSans text-white",
     h2Style: "font-bold lg:text-[38px] text-[28px] font-WorkSans  text-white",
-    h5Style: "font-bold lg:text-[22px] text-[22px] font-WorkSans text-white",
+    h5Style: "font-bold lg:text-[22px] text-[16px] font-WorkSans text-white",
+    h5Style2: "font-bold lg:text-[22px] text-[16px] font-WorkSans text-white",
+    h5Nav: "font-normal lg:text-[16px] text-[22px] font-WorkSans text-white",
+    
     
   
     // hero section
