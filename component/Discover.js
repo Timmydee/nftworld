@@ -30,10 +30,10 @@ function Discover() {
                     imgMain="/discover1.png" name="Distant Galaxy" imgSub="/discoverProfile1.png" subName="MoonDance" price="1.44Eth" bid="0.33 wETH"
                 />
                 <DiscoverCard 
-                    imgMain="/discover1.png" name="Distant Galaxy" imgSub="/discoverProfile1.png" subName="MoonDance" price="1.44Eth" bid="0.33 wETH"
+                    imgMain="/discover2.png" name="Life On Edena" imgSub="/discoverProfile2.png" subName="SpaceOne" price="2.4Eth" bid="3.32 wETH"
                 />
                 <DiscoverCard 
-                    imgMain="/discover1.png" name="Distant Galaxy" imgSub="/discoverProfile1.png" subName="MoonDance" price="1.44Eth" bid="0.33 wETH"
+                    imgMain="/discover3.png" name="AstroFiction" imgSub="/discoverProfile1.png" subName="NebulaKid" price="4.8Eth" bid="5.83 wETH"
                 />
             </div>
         </div>

@@ -11,9 +11,9 @@ function Highlight() {
         variants={navVariants}
         initial="hidden"
         whileInView="show"
-        className={`${styles.yPaddings}`}
+        // className={`${styles.yPaddings}`}
     >
-        <img src="/nft.png" className='w-full' />
+        <img src="/nft.png" className='w-full pt-14 lg:pt-20 ' />
     </motion.div>
   )
 }

@@ -36,68 +36,68 @@ const Creator = () => {
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator2.png"
+                    name="DigiLab"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator3.png"
+                    name="GravityOne"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator4.png"
+                    name="Juane"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator5.png"
+                    name="BlueWhale"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator6.png"
+                    name="Mr Fox"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator7.png"
+                    name="Shroomie"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator8.png"
+                    name="Robotica"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator9.png"
+                    name="RustyRobot"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator5.png"
+                    name="AnimalKid"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator2.png"
+                    name="MoonApe"
                     price="34.56eth"
                     id="1"
                 />
                 <CreatorCard 
-                    img="/creator1.png"
-                    name="Adrian cole"
+                    img="/creator10.png"
+                    name="Alvian"
                     price="34.56eth"
                     id="1"
                 />

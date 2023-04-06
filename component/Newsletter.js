@@ -22,13 +22,14 @@ function Newsletter() {
                     <h3 className={`${styles.h2Style}`}>Join our weekly <br/> digest</h3>
                     <h5 className={`text-[22px] text-white font-WorkSans font-light py-4`}>Get exclusive promotions & updates straight to your inbox.</h5>
 
-                    <div className='flex flex-col lg:flex-row pt-4'>
+                    <form className='flex flex-col lg:w-[420px] lg:h-[60px] lg:bg-white lg:flex-row lg:rounded-3xl items-center justify-center overflow-hidden'>
                         <input 
                             placeholder='Enter your Email Here'
-                            className='w-full h-[60px] p-4 my-4 lg:my-0 border-none lg:rounded-l-xl rounded-3xl'
+                            className='w-full lg:w-[225px] h-[60px] p-4 my-4 lg:my-0 border-none rounded-3xl bg-white lg:bg-transparent'
                         />
-                        <button className='bg-[#A259FF] lg:w-[211px] w-full h-[60px] rounded-3xl right-0 '>Subscribe Now</button>
-                    </div>
+                        <button className='bg-[#A259FF] lg:w-[311px] w-full h-[60px] rounded-3xl right-0 '>Subscribe Now</button>
+                    </form>
+
                 </div>
             </div>
         </div>

@@ -39,13 +39,13 @@ function Footer() {
                 <h5 className={`${styles.h5Style} pb-2`}>Join our weekly digest</h5>
                 <p className={`text-[#CCCCCC] font-WorkSans text-[16px] py-1` }>Get exclusive promotions & updates straight to your inbox.</p>
                 
-                <div className='flex flex-col lg:flex-row pt-4'>
+                <form className='flex flex-col lg:w-[425px] lg:h-[60px] lg:bg-white lg:flex-row lg:rounded-3xl items-center justify-center overflow-hidden'>
                     <input 
                         placeholder='Enter your Email Here'
-                        className='w-full h-[60px] p-4 my-4 lg:my-0 border-none lg:rounded-l-xl rounded-3xl'
+                        className='w-full lg:w-[214px] h-[60px] p-4 my-4 lg:my-0 border-none rounded-3xl bg-white lg:bg-transparent'
                     />
-                    <button className='bg-[#A259FF] lg:w-[211px] w-full h-[60px] rounded-3xl right-0  '>Subscribe Now</button>
-                </div>
+                    <button className='bg-[#A259FF] lg:w-[211px] w-full h-[60px] rounded-3xl right-0 '>Subscribe Now</button>
+                </form>
             </div>
         </div>
 
